@@ -1,6 +1,6 @@
 # ============================================================
 #  WEEK 10 LAB — Q3: SECURITY AUDIT LOG + UNIT TESTS
-#  COMP2152 — [Gia Duc Can]
+#  COMP2152 — [Hasan Khalil]
 # ============================================================
 
 import sqlite3
